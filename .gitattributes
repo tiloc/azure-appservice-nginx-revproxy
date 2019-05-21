@@ -1,0 +1,4 @@
+*.sh -crlf
+*.html -crlf
+*.conf -crlf
+sshd_config -crlf
